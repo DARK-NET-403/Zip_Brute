@@ -15,7 +15,7 @@
 **ZipBrute** is a **super-fast and colorful password brute-force tool** to crack `.zip` file passwords. It supports:
 - ✅ **Common Password List**
 - ✅ **Custom Password Generation**
-- ✅ **Animated Cracking Progress**
+- ✅ **Custom password attack**
 - ✅ **Auto Attack Based on Selection**
 
 ---
